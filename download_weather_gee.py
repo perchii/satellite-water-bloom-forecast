@@ -33,7 +33,7 @@ BANDS = [
 ]
 
 
-if PROJECT_ID == "ВСТАВЬ_СЮДА_СВОЙ_PROJECT_ID":
+if PROJECT_ID == "YOUR_GCP_PROJECT_ID":
     raise ValueError("Укажи свой Project ID в переменной PROJECT_ID.")
 
 try:
