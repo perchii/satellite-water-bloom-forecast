@@ -1,0 +1,11 @@
+﻿queue_index,date,sensor,selection_role,initial_scene_label,evidence,final_scene_label,review_note,polygons_exported
+1,2019-07-09,SENTINEL_2,bloom_reference,bloom,"manual, confident",,,
+4,2026-07-27,SENTINEL_2,bloom_reference,bloom,"manual, confident",,,
+7,2020-07-10,LANDSAT_8_9,bloom_reference,bloom,"manual, strong",,,
+10,2023-07-03,LANDSAT_8_9,bloom_reference,bloom,"manual, strong",,,
+13,2026-06-20,SENTINEL_2,clean_water_reference,no_bloom,manual,,,
+16,2021-05-03,LANDSAT_8_9,clean_water_reference,no_bloom,manual,,,
+18,2015-05-03,LANDSAT_8_9,artifact_reference,clouds_or_artifact,"manual: uncertain, likely artifact",,,
+21,2025-06-07,LANDSAT_8_9,review_first,,very high FAI and jump; inspect first,,,
+24,2023-08-12,LANDSAT_8_9,review_first,,low FAI control; inspect first,,,
+27,2024-06-12,SENTINEL_2,review_first,,high FAI and positive jump; inspect first,,,
